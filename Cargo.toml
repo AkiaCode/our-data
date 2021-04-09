@@ -3,6 +3,10 @@ name = "our-data"
 version = "0.1.0"
 authors = ["Akiacode <catry.me@gmail.com>"]
 edition = "2018"
+description = "Rust wrapper of data.or.kr"
+license = "MIT"
+documentation = "https://docs.rs/our-data"
+repository = "https://github.com/AkiaCode/our-data"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
